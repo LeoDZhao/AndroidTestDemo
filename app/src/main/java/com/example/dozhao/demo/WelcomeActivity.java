@@ -1,4 +1,4 @@
-package com.example.dozhao.demoapp;
+package com.example.dozhao.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

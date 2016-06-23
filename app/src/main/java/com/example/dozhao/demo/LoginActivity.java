@@ -1,4 +1,4 @@
-package com.example.dozhao.demoapp;
+package com.example.dozhao.demo;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
